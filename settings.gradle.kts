@@ -1,3 +1,3 @@
 
-rootProject.name = "PI2-mazetosan"
+rootProject.name = "PI2_kotlin"
 
